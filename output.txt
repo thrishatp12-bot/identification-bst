@@ -1,0 +1,6 @@
+Inorder traversal:
+A102 A120 A25 A45 A7 B100 B12 B3 
+
+Searching for A45
+BST: Found, comparisons = 4
+Linear Search: Found, comparisons = 8
